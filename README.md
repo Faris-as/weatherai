@@ -55,6 +55,7 @@ cd weather-app
 
 # Install dependencies
 npm install
+npm install lucide-react
 
 # Start development server
 npm run dev
